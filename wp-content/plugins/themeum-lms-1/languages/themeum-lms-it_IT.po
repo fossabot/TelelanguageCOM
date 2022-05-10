@@ -1,0 +1,2215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themeum LMS\n"
+"POT-Creation-Date: 2015-08-12 14:26+0600\n"
+"PO-Revision-Date: 2015-08-12 14:27+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/dashboard.php:7
+msgid "Themeum LMS Status"
+msgstr ""
+
+#: admin/dashboard.php:23
+msgid "Total Orders"
+msgstr ""
+
+#: admin/dashboard.php:28
+msgid "Pending Orders"
+msgstr ""
+
+#: admin/dashboard.php:33 post-type/course.php:27
+msgid "Courses"
+msgstr ""
+
+#: admin/dashboard.php:38 admin/menus.php:229 post-type/lesson.php:27
+msgid "Lessons"
+msgstr ""
+
+#: admin/dashboard.php:43 admin/menus.php:230 post-type/teacher.php:27
+msgid "Teachers"
+msgstr ""
+
+#: admin/dashboard.php:48 admin/menus.php:235 post-type/event.php:27
+msgid "Events"
+msgstr ""
+
+#: admin/menus.php:9
+msgid "General Settings"
+msgstr ""
+
+#: admin/menus.php:14
+msgid "Currency"
+msgstr ""
+
+#: admin/menus.php:18
+msgid "Australian Dollar($)"
+msgstr ""
+
+#: admin/menus.php:19
+msgid "Brazilian Real(R$)"
+msgstr ""
+
+#: admin/menus.php:20
+msgid "Canadian Dollar($)"
+msgstr ""
+
+#: admin/menus.php:21
+msgid "Czech Koruna(Kč)"
+msgstr ""
+
+#: admin/menus.php:22
+msgid "Danish Krone(kr.)"
+msgstr ""
+
+#: admin/menus.php:23
+msgid "Euro(€)"
+msgstr ""
+
+#: admin/menus.php:24
+msgid "Hong Kong Dollar(HK$)"
+msgstr ""
+
+#: admin/menus.php:25
+msgid "Hungarian Forint(Ft)"
+msgstr ""
+
+#: admin/menus.php:26
+msgid "Israeli New Sheqel(₪)"
+msgstr ""
+
+#: admin/menus.php:27
+msgid "Japanese Yen(¥)"
+msgstr ""
+
+#: admin/menus.php:28
+msgid "Malaysian Ringgit(RM)"
+msgstr ""
+
+#: admin/menus.php:29
+msgid "Mexican Peso(Mex$)"
+msgstr ""
+
+#: admin/menus.php:30
+msgid "Norwegian Krone(kr)"
+msgstr ""
+
+#: admin/menus.php:31
+msgid "New Zealand Dollar($)"
+msgstr ""
+
+#: admin/menus.php:32
+msgid "Philippine Peso(₱)"
+msgstr ""
+
+#: admin/menus.php:33
+msgid "Polish Zloty(zł)"
+msgstr ""
+
+#: admin/menus.php:34
+msgid "Pound Sterling(£)"
+msgstr ""
+
+#: admin/menus.php:35
+msgid "Russian Ruble(₽)"
+msgstr ""
+
+#: admin/menus.php:36
+msgid "Singapore Dollar($)"
+msgstr ""
+
+#: admin/menus.php:37
+msgid "Swedish Krona(kr)"
+msgstr ""
+
+#: admin/menus.php:38
+msgid "Swiss Franc(CHF)"
+msgstr ""
+
+#: admin/menus.php:39
+msgid "Taiwan New Dollar(角)"
+msgstr ""
+
+#: admin/menus.php:40
+msgid "Thai Baht(฿)"
+msgstr ""
+
+#: admin/menus.php:41
+msgid "Turkish Lira(TRY)"
+msgstr ""
+
+#: admin/menus.php:42
+msgid "U.S. Dollar($)"
+msgstr ""
+
+#: admin/menus.php:49
+msgid "Checkout Page"
+msgstr ""
+
+#: admin/menus.php:71
+msgid "Payment Success Return Page"
+msgstr ""
+
+#: admin/menus.php:92
+msgid "Payment Cancel Return Page"
+msgstr ""
+
+#: admin/menus.php:115
+msgid "Certificate Page"
+msgstr ""
+
+#: admin/menus.php:139
+msgid "Quiz Page"
+msgstr ""
+
+#: admin/menus.php:166
+msgid "Paypal"
+msgstr ""
+
+#: admin/menus.php:167
+msgid ""
+"PayPal standard works by sending customers to PayPal where they can enter "
+"their payment information."
+msgstr ""
+
+#: admin/menus.php:171
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/menus.php:177 admin/menus.php:181
+msgid "Enable"
+msgstr ""
+
+#: admin/menus.php:177 admin/menus.php:179
+msgid "Disable"
+msgstr ""
+
+#: admin/menus.php:188
+msgid "Paypal Email Address"
+msgstr ""
+
+#: admin/menus.php:193 admin/menus.php:199 admin/menus.php:203
+msgid "PayPal"
+msgstr ""
+
+#: admin/menus.php:199 admin/menus.php:201
+msgid "PayPal Sandbox"
+msgstr ""
+
+#: admin/menus.php:218
+msgid "Export Order Data"
+msgstr ""
+
+#: admin/menus.php:227
+msgid "Themeum LMS"
+msgstr ""
+
+#: admin/menus.php:228
+msgid "Course Categories"
+msgstr ""
+
+#: admin/menus.php:229 templates/lesson-template.php:106
+msgid "All Lessons"
+msgstr ""
+
+#: admin/menus.php:231
+msgid "Teacher Categories"
+msgstr ""
+
+#: admin/menus.php:232 post-type/student.php:27
+msgid "Students"
+msgstr ""
+
+#: admin/menus.php:233
+msgid "Student Categories"
+msgstr ""
+
+#: admin/menus.php:234 post-type/question.php:27
+msgid "Questions"
+msgstr ""
+
+#: admin/menus.php:235
+msgid "All Events"
+msgstr ""
+
+#: admin/menus.php:236
+msgid "Event Categories"
+msgstr ""
+
+#: admin/menus.php:237
+msgid "Event Speakers"
+msgstr ""
+
+#: admin/menus.php:238
+msgid "Themeum Settings"
+msgstr ""
+
+#: admin/menus.php:238
+msgid "Settings"
+msgstr ""
+
+#: admin/menus.php:239
+msgid "All Orders"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:24
+msgid "Course Name"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:25 payment/themeum_payment_lms.php:80
+msgid "Product ID"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:26 payment/themeum_payment_lms.php:79
+#: post-type/meta_box.php:860
+msgid "User ID"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:27 payment/themeum_payment_lms.php:81
+#: payment/themeum_payment_lms.php:197
+msgid "Price"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:28 payment/themeum_payment_lms.php:82
+#: post-type/meta_box.php:887
+msgid "Payment ID"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:29 post-type/meta_box.php:919
+msgid "Order Status"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:83
+msgid "themeum_status_all"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:197 post-type/meta_box.php:840
+msgid "Product Name"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:197 payment/themeum_payment_lms.php:201
+#: post-type/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:247
+msgid "Continue"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:249
+msgid "Warning!"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:249
+msgid "Please Enable PayPal standard for Checkout."
+msgstr ""
+
+#: payment/themeum_payment_lms.php:252
+msgid "Remove All"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:254
+msgid "Payment option"
+msgstr ""
+
+#: payment/themeum_payment_lms.php:258
+msgid "Login First To Checkout."
+msgstr ""
+
+#: post-type/course.php:25
+msgctxt "Courses"
+msgid "Courses"
+msgstr ""
+
+#: post-type/course.php:26
+msgctxt "Course"
+msgid "Course"
+msgstr ""
+
+#: post-type/course.php:28
+msgid "Parent Course:"
+msgstr ""
+
+#: post-type/course.php:29
+msgid "All Courses"
+msgstr ""
+
+#: post-type/course.php:30 shortcodes/feature-course.php:49
+msgid "View Course"
+msgstr ""
+
+#: post-type/course.php:31
+msgid "Add New Course"
+msgstr ""
+
+#: post-type/course.php:32
+msgid "New Course"
+msgstr ""
+
+#: post-type/course.php:33
+msgid "Edit Course"
+msgstr ""
+
+#: post-type/course.php:34
+msgid "Update Course"
+msgstr ""
+
+#: post-type/course.php:35
+msgid "Search Course"
+msgstr ""
+
+#: post-type/course.php:36 post-type/event.php:36 post-type/lesson.php:36
+#: post-type/order.php:36 post-type/question.php:36 post-type/speaker.php:36
+#: post-type/student.php:36 post-type/teacher.php:36
+msgid "No article found"
+msgstr ""
+
+#: post-type/course.php:37 post-type/event.php:37 post-type/lesson.php:37
+#: post-type/order.php:37 post-type/question.php:37 post-type/speaker.php:37
+#: post-type/student.php:37 post-type/teacher.php:37
+msgid "No article found in Trash"
+msgstr ""
+
+#: post-type/course.php:75
+#, php-format
+msgid "Course updated. <a href=\"%s\">View Course</a>"
+msgstr ""
+
+#: post-type/course.php:76 post-type/event.php:75 post-type/lesson.php:75
+#: post-type/order.php:75 post-type/question.php:75 post-type/speaker.php:75
+#: post-type/student.php:75 post-type/teacher.php:75
+msgid "Custom field updated."
+msgstr ""
+
+#: post-type/course.php:77 post-type/event.php:76 post-type/lesson.php:76
+#: post-type/order.php:76 post-type/question.php:76 post-type/speaker.php:76
+#: post-type/student.php:76 post-type/teacher.php:76
+msgid "Custom field deleted."
+msgstr ""
+
+#: post-type/course.php:78
+msgid "Course updated."
+msgstr ""
+
+#: post-type/course.php:79
+#, php-format
+msgid "Course restored to revision from %s"
+msgstr ""
+
+#: post-type/course.php:80
+#, php-format
+msgid "Course published. <a href=\"%s\">View Course</a>"
+msgstr ""
+
+#: post-type/course.php:81
+msgid "Course saved."
+msgstr ""
+
+#: post-type/course.php:82
+#, php-format
+msgid "Course submitted. <a target=\"_blank\" href=\"%s\">Preview Course</a>"
+msgstr ""
+
+#: post-type/course.php:83
+#, php-format
+msgid ""
+"Course scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Course</a>"
+msgstr ""
+
+#: post-type/course.php:83 post-type/event.php:82 post-type/lesson.php:82
+#: post-type/order.php:82 post-type/question.php:82 post-type/speaker.php:82
+#: post-type/student.php:82 post-type/teacher.php:82
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: post-type/course.php:84
+#, php-format
+msgid ""
+"Course draft updated. <a target=\"_blank\" href=\"%s\">Preview Course</a>"
+msgstr ""
+
+#: post-type/course.php:102
+msgctxt "taxonomy general name"
+msgid "Course Categories"
+msgstr ""
+
+#: post-type/course.php:103
+msgctxt "taxonomy singular name"
+msgid "Course Category"
+msgstr ""
+
+#: post-type/course.php:104
+msgid "Search Course Category"
+msgstr ""
+
+#: post-type/course.php:105
+msgid "All Course Category"
+msgstr ""
+
+#: post-type/course.php:106
+msgid "Course Parent Category"
+msgstr ""
+
+#: post-type/course.php:107
+msgid "Course Parent Category:"
+msgstr ""
+
+#: post-type/course.php:108
+msgid "Edit Course Category"
+msgstr ""
+
+#: post-type/course.php:109
+msgid "Update Course Category"
+msgstr ""
+
+#: post-type/course.php:110
+msgid "Add New Course Category"
+msgstr ""
+
+#: post-type/course.php:111
+msgid "New Course Category Name"
+msgstr ""
+
+#: post-type/course.php:112 shortcodes/course-category.php:77
+#: shortcodes/course-listing.php:144
+msgid "Course Category"
+msgstr ""
+
+#: post-type/event.php:25
+msgctxt "Events"
+msgid "Event"
+msgstr ""
+
+#: post-type/event.php:26
+msgctxt "Event"
+msgid "Event"
+msgstr ""
+
+#: post-type/event.php:28
+msgid "Parent Event:"
+msgstr ""
+
+#: post-type/event.php:29
+msgid "All Event"
+msgstr ""
+
+#: post-type/event.php:30
+msgid "View Event"
+msgstr ""
+
+#: post-type/event.php:31
+msgid "Add New Event"
+msgstr ""
+
+#: post-type/event.php:32
+msgid "New Event"
+msgstr ""
+
+#: post-type/event.php:33
+msgid "Edit Event"
+msgstr ""
+
+#: post-type/event.php:34
+msgid "Update Event"
+msgstr ""
+
+#: post-type/event.php:35
+msgid "Search Event"
+msgstr ""
+
+#: post-type/event.php:74
+#, php-format
+msgid "Event updated. <a href=\"%s\">View Event</a>"
+msgstr ""
+
+#: post-type/event.php:77
+msgid "Event updated."
+msgstr ""
+
+#: post-type/event.php:78
+#, php-format
+msgid "Event restored to revision from %s"
+msgstr ""
+
+#: post-type/event.php:79
+#, php-format
+msgid "Event published. <a href=\"%s\">View Event</a>"
+msgstr ""
+
+#: post-type/event.php:80
+msgid "Event saved."
+msgstr ""
+
+#: post-type/event.php:81
+#, php-format
+msgid "Event submitted. <a target=\"_blank\" href=\"%s\">Preview Event</a>"
+msgstr ""
+
+#: post-type/event.php:82
+#, php-format
+msgid ""
+"Event scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Event</a>"
+msgstr ""
+
+#: post-type/event.php:83
+#, php-format
+msgid "Event draft updated. <a target=\"_blank\" href=\"%s\">Preview Event</a>"
+msgstr ""
+
+#: post-type/event.php:101
+msgctxt "taxonomy general name"
+msgid "Event Categories"
+msgstr ""
+
+#: post-type/event.php:102
+msgctxt "taxonomy singular name"
+msgid "Event Category"
+msgstr ""
+
+#: post-type/event.php:103
+msgid "Search Category"
+msgstr ""
+
+#: post-type/event.php:104
+msgid "All Category"
+msgstr ""
+
+#: post-type/event.php:105
+msgid "Parent Category"
+msgstr ""
+
+#: post-type/event.php:106
+msgid "Parent Category:"
+msgstr ""
+
+#: post-type/event.php:107
+msgid "Edit Category"
+msgstr ""
+
+#: post-type/event.php:108
+msgid "Update Category"
+msgstr ""
+
+#: post-type/event.php:109
+msgid "Add New Category"
+msgstr ""
+
+#: post-type/event.php:110
+msgid "New Category Name"
+msgstr ""
+
+#: post-type/event.php:111
+msgid "Event Category"
+msgstr ""
+
+#: post-type/lesson.php:25
+msgctxt "Lessons"
+msgid "Lessons"
+msgstr ""
+
+#: post-type/lesson.php:26
+msgctxt "Lesson"
+msgid "Lesson"
+msgstr ""
+
+#: post-type/lesson.php:28
+msgid "Parent Lesson:"
+msgstr ""
+
+#: post-type/lesson.php:29
+msgid "All Lesson"
+msgstr ""
+
+#: post-type/lesson.php:30
+msgid "View Lesson"
+msgstr ""
+
+#: post-type/lesson.php:31
+msgid "Add New Lesson"
+msgstr ""
+
+#: post-type/lesson.php:32
+msgid "New Lesson"
+msgstr ""
+
+#: post-type/lesson.php:33
+msgid "Edit Lesson"
+msgstr ""
+
+#: post-type/lesson.php:34
+msgid "Update Lesson"
+msgstr ""
+
+#: post-type/lesson.php:35
+msgid "Search Lesson"
+msgstr ""
+
+#: post-type/lesson.php:74
+#, php-format
+msgid "Lesson updated. <a href=\"%s\">View Lesson</a>"
+msgstr ""
+
+#: post-type/lesson.php:77
+msgid "Lesson updated."
+msgstr ""
+
+#: post-type/lesson.php:78
+#, php-format
+msgid "Lesson restored to revision from %s"
+msgstr ""
+
+#: post-type/lesson.php:79
+#, php-format
+msgid "Lesson published. <a href=\"%s\">View Lesson</a>"
+msgstr ""
+
+#: post-type/lesson.php:80
+msgid "Lesson saved."
+msgstr ""
+
+#: post-type/lesson.php:81
+#, php-format
+msgid "Lesson submitted. <a target=\"_blank\" href=\"%s\">Preview Lesson</a>"
+msgstr ""
+
+#: post-type/lesson.php:82
+#, php-format
+msgid ""
+"Lesson scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Lesson</a>"
+msgstr ""
+
+#: post-type/lesson.php:83
+#, php-format
+msgid ""
+"Lesson draft updated. <a target=\"_blank\" href=\"%s\">Preview Lesson</a>"
+msgstr ""
+
+#: post-type/meta-box/inc/common.php:53
+msgid "Documentation"
+msgstr ""
+
+#: post-type/meta-box/inc/common.php:54
+msgid "Extensions"
+msgstr ""
+
+#: post-type/meta-box/inc/field.php:227
+msgid "+"
+msgstr ""
+
+#: post-type/meta-box/inc/field.php:240
+msgid "&#8211;"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/autocomplete.php:18
+#: post-type/meta-box/inc/fields/autocomplete.php:83
+#: post-type/meta-box/inc/fields/autocomplete.php:100
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:77
+msgid "Yes"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:77
+msgid "No"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:66
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:103
+#: post-type/meta-box/inc/fields/file.php:168
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-advanced.php:104
+#: post-type/meta-box/inc/fields/file.php:169
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:111
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:112
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:23
+msgid "Select Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:71
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:108
+#: post-type/meta-box/inc/fields/image.php:136
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image-advanced.php:109
+#: post-type/meta-box/inc/fields/image.php:137
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image.php:70
+#: post-type/meta-box/inc/fields/thickbox-image.php:34
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/key-value.php:19
+msgid "Key"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/key-value.php:20
+msgid "Value"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/map.php:46 post-type/meta_box.php:339
+msgid "Find Address"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:55
+msgid "Embed HTML not available."
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:106
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:107
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/plupload-image.php:182
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:52
+#: post-type/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/user.php:49
+msgid "Select an user"
+msgstr ""
+
+#: post-type/meta-box/inc/meta-box.php:245
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: post-type/meta_box.php:100
+msgid "Course Item Settings"
+msgstr ""
+
+#: post-type/meta_box.php:118
+msgid "Course Sub Name"
+msgstr ""
+
+#: post-type/meta_box.php:120
+msgid "Add Course Sub Name Ex. Management"
+msgstr ""
+
+#: post-type/meta_box.php:135
+msgid "Course Lessons Category"
+msgstr ""
+
+#: post-type/meta_box.php:142
+msgid "Course Lessons Category Description"
+msgstr ""
+
+#: post-type/meta_box.php:149
+msgid "Course Lessons"
+msgstr ""
+
+#: post-type/meta_box.php:155
+msgid "Select Lessons"
+msgstr ""
+
+#: post-type/meta_box.php:174
+msgid "Number of Lessons"
+msgstr ""
+
+#: post-type/meta_box.php:176
+msgid "Number of Lesson Ex. 6 Lessons"
+msgstr ""
+
+#: post-type/meta_box.php:182
+msgid "Attachment File"
+msgstr ""
+
+#: post-type/meta_box.php:184
+msgid "Number of Attachment File Ex. 3 Example Files"
+msgstr ""
+
+#: post-type/meta_box.php:190
+msgid "Course Teacher"
+msgstr ""
+
+#: post-type/meta_box.php:196
+msgid "Select Teacher"
+msgstr ""
+
+#: post-type/meta_box.php:200 post-type/meta_box.php:202
+msgid "Featured Course"
+msgstr ""
+
+#: post-type/meta_box.php:208
+msgid "Featured Post BG Color"
+msgstr ""
+
+#: post-type/meta_box.php:210
+msgid "Featured Course Background Color"
+msgstr ""
+
+#: post-type/meta_box.php:216
+msgid "Course Price"
+msgstr ""
+
+#: post-type/meta_box.php:218 post-type/meta_box.php:325
+msgid "Number of Price Ex. 30"
+msgstr ""
+
+#: post-type/meta_box.php:225 post-type/meta_box.php:227
+#: shortcodes/free-courses.php:115
+msgid "Free Course"
+msgstr ""
+
+#: post-type/meta_box.php:234 post-type/meta_box.php:239
+msgid "Select Question Set"
+msgstr ""
+
+#: post-type/meta_box.php:249
+msgid "Total Course Time"
+msgstr ""
+
+#: post-type/meta_box.php:251
+msgid "Ex: 104hr 30min"
+msgstr ""
+
+#: post-type/meta_box.php:257
+msgid "Watch Trailer URL"
+msgstr ""
+
+#: post-type/meta_box.php:279
+msgid "Event Item Settings"
+msgstr ""
+
+#: post-type/meta_box.php:297
+msgid "Start Date and Time"
+msgstr ""
+
+#: post-type/meta_box.php:299
+msgid "Event Start Date and Time"
+msgstr ""
+
+#: post-type/meta_box.php:305
+msgid "Event End Date and Time"
+msgstr ""
+
+#: post-type/meta_box.php:307
+msgid "Event Date and Time"
+msgstr ""
+
+#: post-type/meta_box.php:313
+msgid "Event Speaker"
+msgstr ""
+
+#: post-type/meta_box.php:319
+msgid "Select Speaker"
+msgstr ""
+
+#: post-type/meta_box.php:323
+msgid "Event Price"
+msgstr ""
+
+#: post-type/meta_box.php:331 post-type/meta_box.php:333
+msgid "Event Place"
+msgstr ""
+
+#: post-type/meta_box.php:341
+msgid "Just Write The Address and get map below"
+msgstr ""
+
+#: post-type/meta_box.php:343
+msgid "Dhaka, Bangladesh"
+msgstr ""
+
+#: post-type/meta_box.php:347
+msgid "Location"
+msgstr ""
+
+#: post-type/meta_box.php:371
+msgid "Lesson Item Settings"
+msgstr ""
+
+#: post-type/meta_box.php:389
+msgid "Lesson Type *"
+msgstr ""
+
+#: post-type/meta_box.php:391
+msgid "Select Type Ex:Free/Paid"
+msgstr ""
+
+#: post-type/meta_box.php:401
+msgid "Video File"
+msgstr ""
+
+#: post-type/meta_box.php:403
+msgid "Add Video File(MP4 Format)"
+msgstr ""
+
+#: post-type/meta_box.php:409
+msgid "Lesson Video URL"
+msgstr ""
+
+#: post-type/meta_box.php:411
+msgid "Youtube/vimeo Url. e.g. https://www.youtube.com/watch?v=dqRzj05CySA"
+msgstr ""
+
+#: post-type/meta_box.php:417
+msgid "Lesson Attachment"
+msgstr ""
+
+#: post-type/meta_box.php:419
+msgid "Lesson Attachment)"
+msgstr ""
+
+#: post-type/meta_box.php:426
+msgid "Video Duration"
+msgstr ""
+
+#: post-type/meta_box.php:428
+msgid "Video Duration Ex. 30"
+msgstr ""
+
+#: post-type/meta_box.php:448
+msgid "Teacher Item Settings"
+msgstr ""
+
+#: post-type/meta_box.php:466
+msgid "Teacher Website"
+msgstr ""
+
+#: post-type/meta_box.php:468 post-type/meta_box.php:688
+msgid "Soundcloud Playlist Url. e.g. https://www.example.com/"
+msgstr ""
+
+#: post-type/meta_box.php:474
+msgid "Teacher Email"
+msgstr ""
+
+#: post-type/meta_box.php:476
+msgid "Add Teacher Email"
+msgstr ""
+
+#: post-type/meta_box.php:482
+msgid "Teacher Experience"
+msgstr ""
+
+#: post-type/meta_box.php:484
+msgid "Add Teacher Experience"
+msgstr ""
+
+#: post-type/meta_box.php:490
+msgid "Teacher Specialized In"
+msgstr ""
+
+#: post-type/meta_box.php:492
+msgid "Add Teacher Specialist In"
+msgstr ""
+
+#: post-type/meta_box.php:498
+msgid "Lesson Course"
+msgstr ""
+
+#: post-type/meta_box.php:504 post-type/meta_box.php:600
+#: post-type/meta_box.php:874
+msgid "Select Course"
+msgstr ""
+
+#: post-type/meta_box.php:508 post-type/meta_box.php:604
+msgid "Facebook"
+msgstr ""
+
+#: post-type/meta_box.php:510 post-type/meta_box.php:606
+msgid "Facebook Profile Url"
+msgstr ""
+
+#: post-type/meta_box.php:515 post-type/meta_box.php:611
+msgid "Twitter"
+msgstr ""
+
+#: post-type/meta_box.php:517 post-type/meta_box.php:613
+msgid "Twitter Profile Url"
+msgstr ""
+
+#: post-type/meta_box.php:522 post-type/meta_box.php:618
+msgid "Gplus"
+msgstr ""
+
+#: post-type/meta_box.php:524 post-type/meta_box.php:620
+msgid "Google Plus Profile Url"
+msgstr ""
+
+#: post-type/meta_box.php:529 post-type/meta_box.php:625
+msgid "YouTube"
+msgstr ""
+
+#: post-type/meta_box.php:531 post-type/meta_box.php:627
+msgid "Youtube Url"
+msgstr ""
+
+#: post-type/meta_box.php:550
+msgid "Student Item Settings"
+msgstr ""
+
+#: post-type/meta_box.php:569
+msgid "Student Email"
+msgstr ""
+
+#: post-type/meta_box.php:571
+msgid "Add Student Email"
+msgstr ""
+
+#: post-type/meta_box.php:577
+msgid "Student Phone"
+msgstr ""
+
+#: post-type/meta_box.php:579
+msgid "Add Student Phone"
+msgstr ""
+
+#: post-type/meta_box.php:585
+msgid "Student Address"
+msgstr ""
+
+#: post-type/meta_box.php:587
+msgid "Add Student Address"
+msgstr ""
+
+#: post-type/meta_box.php:594
+msgid "Student Course"
+msgstr ""
+
+#: post-type/meta_box.php:633
+msgid "User Name"
+msgstr ""
+
+#: post-type/meta_box.php:639
+msgid "Select User Name"
+msgstr ""
+
+#: post-type/meta_box.php:660
+msgid "Speaker Item Settings"
+msgstr ""
+
+#: post-type/meta_box.php:678
+msgid "Designation"
+msgstr ""
+
+#: post-type/meta_box.php:680
+msgid "Add Speaker Designation"
+msgstr ""
+
+#: post-type/meta_box.php:686
+msgid "Speaker Website"
+msgstr ""
+
+#: post-type/meta_box.php:694
+msgid "Speaker Email"
+msgstr ""
+
+#: post-type/meta_box.php:696
+msgid "Add Speaker Email"
+msgstr ""
+
+#: post-type/meta_box.php:718
+msgid "Question Item Settings"
+msgstr ""
+
+#: post-type/meta_box.php:746
+msgid "Add The Question"
+msgstr ""
+
+#: post-type/meta_box.php:754 post-type/meta_box.php:766
+#: post-type/meta_box.php:772
+msgid "Add Answer 1"
+msgstr ""
+
+#: post-type/meta_box.php:760
+msgid "Add Answer 2"
+msgstr ""
+
+#: post-type/meta_box.php:780
+msgid "1st Answer is Correct"
+msgstr ""
+
+#: post-type/meta_box.php:781
+msgid "2nd Answer is Correct"
+msgstr ""
+
+#: post-type/meta_box.php:782
+msgid "3rd Answer is Correct"
+msgstr ""
+
+#: post-type/meta_box.php:783
+msgid "4th Answer is Correct"
+msgstr ""
+
+#: post-type/meta_box.php:786
+msgid "Select Correct Answer"
+msgstr ""
+
+#: post-type/meta_box.php:796
+msgid "Total Time of Quiz(in minute ex: 35)"
+msgstr ""
+
+#: post-type/meta_box.php:798
+msgid "ex: 35"
+msgstr ""
+
+#: post-type/meta_box.php:822
+msgid "Order Item Settings"
+msgstr ""
+
+#: post-type/meta_box.php:846
+msgid "Select Course Title"
+msgstr ""
+
+#: post-type/meta_box.php:851
+msgid "Order ID"
+msgstr ""
+
+#: post-type/meta_box.php:853
+msgid "Order Course ID Ex. 3"
+msgstr ""
+
+#: post-type/meta_box.php:862
+msgid "Order User ID Ex. 3"
+msgstr ""
+
+#: post-type/meta_box.php:868
+msgid "Course ID"
+msgstr ""
+
+#: post-type/meta_box.php:879 post-type/meta_box.php:881
+msgid "Order Price"
+msgstr ""
+
+#: post-type/meta_box.php:889
+msgid "Payment ID Ex. 3"
+msgstr ""
+
+#: post-type/meta_box.php:895
+msgid "Payment Method"
+msgstr ""
+
+#: post-type/meta_box.php:897
+msgid "Add Payment Method"
+msgstr ""
+
+#: post-type/meta_box.php:903
+msgid "Order Created"
+msgstr ""
+
+#: post-type/meta_box.php:905
+msgid "Order created"
+msgstr ""
+
+#: post-type/meta_box.php:911
+msgid "Comments"
+msgstr ""
+
+#: post-type/meta_box.php:913
+msgid "Add Your Order Comments Here"
+msgstr ""
+
+#: post-type/meta_box.php:921
+msgid "Select Order Status"
+msgstr ""
+
+#: post-type/order.php:25
+msgctxt "Orders"
+msgid "Orders"
+msgstr ""
+
+#: post-type/order.php:26
+msgctxt "Order"
+msgid "Order"
+msgstr ""
+
+#: post-type/order.php:27
+msgid "Orders"
+msgstr ""
+
+#: post-type/order.php:28
+msgid "Parent Order:"
+msgstr ""
+
+#: post-type/order.php:29
+msgid "All Order"
+msgstr ""
+
+#: post-type/order.php:30
+msgid "View Order"
+msgstr ""
+
+#: post-type/order.php:31
+msgid "Add New Order"
+msgstr ""
+
+#: post-type/order.php:32
+msgid "New Order"
+msgstr ""
+
+#: post-type/order.php:33
+msgid "Edit Order"
+msgstr ""
+
+#: post-type/order.php:34
+msgid "Update Order"
+msgstr ""
+
+#: post-type/order.php:35
+msgid "Search Order"
+msgstr ""
+
+#: post-type/order.php:74
+#, php-format
+msgid "Order updated. <a href=\"%s\">View Order</a>"
+msgstr ""
+
+#: post-type/order.php:77
+msgid "Order updated."
+msgstr ""
+
+#: post-type/order.php:78
+#, php-format
+msgid "Order restored to revision from %s"
+msgstr ""
+
+#: post-type/order.php:79
+#, php-format
+msgid "Order published. <a href=\"%s\">View Order</a>"
+msgstr ""
+
+#: post-type/order.php:80
+msgid "Order saved."
+msgstr ""
+
+#: post-type/order.php:81
+#, php-format
+msgid "Order submitted. <a target=\"_blank\" href=\"%s\">Preview Order</a>"
+msgstr ""
+
+#: post-type/order.php:82
+#, php-format
+msgid ""
+"Order scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Order</a>"
+msgstr ""
+
+#: post-type/order.php:83
+#, php-format
+msgid "Order draft updated. <a target=\"_blank\" href=\"%s\">Preview Order</a>"
+msgstr ""
+
+#: post-type/question.php:25
+msgctxt "Questions"
+msgid "Questions"
+msgstr ""
+
+#: post-type/question.php:26
+msgctxt "Question"
+msgid "Question"
+msgstr ""
+
+#: post-type/question.php:28
+msgid "Parent Question:"
+msgstr ""
+
+#: post-type/question.php:29
+msgid "All Question"
+msgstr ""
+
+#: post-type/question.php:30
+msgid "View Question"
+msgstr ""
+
+#: post-type/question.php:31
+msgid "Add New Question"
+msgstr ""
+
+#: post-type/question.php:32
+msgid "New Question"
+msgstr ""
+
+#: post-type/question.php:33
+msgid "Edit Question"
+msgstr ""
+
+#: post-type/question.php:34
+msgid "Update Question"
+msgstr ""
+
+#: post-type/question.php:35
+msgid "Search Question"
+msgstr ""
+
+#: post-type/question.php:74
+#, php-format
+msgid "Question updated. <a href=\"%s\">View Question</a>"
+msgstr ""
+
+#: post-type/question.php:77
+msgid "Question updated."
+msgstr ""
+
+#: post-type/question.php:78
+#, php-format
+msgid "Question restored to revision from %s"
+msgstr ""
+
+#: post-type/question.php:79
+#, php-format
+msgid "Question published. <a href=\"%s\">View Question</a>"
+msgstr ""
+
+#: post-type/question.php:80
+msgid "Question saved."
+msgstr ""
+
+#: post-type/question.php:81
+#, php-format
+msgid ""
+"Question submitted. <a target=\"_blank\" href=\"%s\">Preview Question</a>"
+msgstr ""
+
+#: post-type/question.php:82
+#, php-format
+msgid ""
+"Question scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Question</a>"
+msgstr ""
+
+#: post-type/question.php:83
+#, php-format
+msgid ""
+"Question draft updated. <a target=\"_blank\" href=\"%s\">Preview Question</a>"
+msgstr ""
+
+#: post-type/question.php:101
+msgctxt "taxonomy general name"
+msgid "Question Categories"
+msgstr ""
+
+#: post-type/question.php:102
+msgctxt "taxonomy singular name"
+msgid "Question Category"
+msgstr ""
+
+#: post-type/question.php:103
+msgid "Search Question Category"
+msgstr ""
+
+#: post-type/question.php:104
+msgid "All Questions Category"
+msgstr ""
+
+#: post-type/question.php:105
+msgid "Question Parent Category"
+msgstr ""
+
+#: post-type/question.php:106
+msgid "Question Parent Category:"
+msgstr ""
+
+#: post-type/question.php:107
+msgid "Edit Question Category"
+msgstr ""
+
+#: post-type/question.php:108
+msgid "Update Question Category"
+msgstr ""
+
+#: post-type/question.php:109
+msgid "Add New Question Category"
+msgstr ""
+
+#: post-type/question.php:110
+msgid "New Question Category Name"
+msgstr ""
+
+#: post-type/question.php:111
+msgid "Question Category"
+msgstr ""
+
+#: post-type/speaker.php:25
+msgctxt "Speakers"
+msgid "Speakers"
+msgstr ""
+
+#: post-type/speaker.php:26
+msgctxt "Speaker"
+msgid "Speaker"
+msgstr ""
+
+#: post-type/speaker.php:27
+msgid "Speakers"
+msgstr ""
+
+#: post-type/speaker.php:28
+msgid "Parent Speaker:"
+msgstr ""
+
+#: post-type/speaker.php:29
+msgid "All Speaker"
+msgstr ""
+
+#: post-type/speaker.php:30
+msgid "View Speaker"
+msgstr ""
+
+#: post-type/speaker.php:31
+msgid "Add New Speaker"
+msgstr ""
+
+#: post-type/speaker.php:32
+msgid "New Speaker"
+msgstr ""
+
+#: post-type/speaker.php:33
+msgid "Edit Speaker"
+msgstr ""
+
+#: post-type/speaker.php:34
+msgid "Update Speaker"
+msgstr ""
+
+#: post-type/speaker.php:35
+msgid "Search Speaker"
+msgstr ""
+
+#: post-type/speaker.php:74
+#, php-format
+msgid "Speaker updated. <a href=\"%s\">View Speaker</a>"
+msgstr ""
+
+#: post-type/speaker.php:77
+msgid "Speaker updated."
+msgstr ""
+
+#: post-type/speaker.php:78
+#, php-format
+msgid "Speaker restored to revision from %s"
+msgstr ""
+
+#: post-type/speaker.php:79
+#, php-format
+msgid "Speaker published. <a href=\"%s\">View Speaker</a>"
+msgstr ""
+
+#: post-type/speaker.php:80
+msgid "Speaker saved."
+msgstr ""
+
+#: post-type/speaker.php:81
+#, php-format
+msgid "Speaker submitted. <a target=\"_blank\" href=\"%s\">Preview Speaker</a>"
+msgstr ""
+
+#: post-type/speaker.php:82
+#, php-format
+msgid ""
+"Speaker scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Speaker</a>"
+msgstr ""
+
+#: post-type/speaker.php:83
+#, php-format
+msgid ""
+"Speaker draft updated. <a target=\"_blank\" href=\"%s\">Preview Speaker</a>"
+msgstr ""
+
+#: post-type/student.php:25
+msgctxt "Students"
+msgid "Students"
+msgstr ""
+
+#: post-type/student.php:26
+msgctxt "Student"
+msgid "Student"
+msgstr ""
+
+#: post-type/student.php:28
+msgid "Parent Student:"
+msgstr ""
+
+#: post-type/student.php:29
+msgid "All Student"
+msgstr ""
+
+#: post-type/student.php:30
+msgid "View Student"
+msgstr ""
+
+#: post-type/student.php:31
+msgid "Add New Student"
+msgstr ""
+
+#: post-type/student.php:32
+msgid "New Student"
+msgstr ""
+
+#: post-type/student.php:33
+msgid "Edit Student"
+msgstr ""
+
+#: post-type/student.php:34
+msgid "Update Student"
+msgstr ""
+
+#: post-type/student.php:35
+msgid "Search Student"
+msgstr ""
+
+#: post-type/student.php:74
+#, php-format
+msgid "Student updated. <a href=\"%s\">View Student</a>"
+msgstr ""
+
+#: post-type/student.php:77
+msgid "Student updated."
+msgstr ""
+
+#: post-type/student.php:78
+#, php-format
+msgid "Student restored to revision from %s"
+msgstr ""
+
+#: post-type/student.php:79
+#, php-format
+msgid "Student published. <a href=\"%s\">View Student</a>"
+msgstr ""
+
+#: post-type/student.php:80
+msgid "Student saved."
+msgstr ""
+
+#: post-type/student.php:81
+#, php-format
+msgid "Student submitted. <a target=\"_blank\" href=\"%s\">Preview Student</a>"
+msgstr ""
+
+#: post-type/student.php:82
+#, php-format
+msgid ""
+"Student scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Student</a>"
+msgstr ""
+
+#: post-type/student.php:83
+#, php-format
+msgid ""
+"Student draft updated. <a target=\"_blank\" href=\"%s\">Preview Student</a>"
+msgstr ""
+
+#: post-type/student.php:102
+msgctxt "taxonomy general name"
+msgid "Student Categories"
+msgstr ""
+
+#: post-type/student.php:103
+msgctxt "taxonomy singular name"
+msgid "Student Category"
+msgstr ""
+
+#: post-type/student.php:104
+msgid "Search Student Category"
+msgstr ""
+
+#: post-type/student.php:105
+msgid "All Student Category"
+msgstr ""
+
+#: post-type/student.php:106
+msgid "Student Parent Category"
+msgstr ""
+
+#: post-type/student.php:107
+msgid "Student Parent Category:"
+msgstr ""
+
+#: post-type/student.php:108
+msgid "Edit Student Category"
+msgstr ""
+
+#: post-type/student.php:109
+msgid "Update Student Category"
+msgstr ""
+
+#: post-type/student.php:110
+msgid "Add New Student Category"
+msgstr ""
+
+#: post-type/student.php:111
+msgid "New Student Category Name"
+msgstr ""
+
+#: post-type/student.php:112
+msgid "Student Category"
+msgstr ""
+
+#: post-type/teacher.php:25
+msgctxt "Teachers"
+msgid "Teachers"
+msgstr ""
+
+#: post-type/teacher.php:26
+msgctxt "Teacher"
+msgid "Teacher"
+msgstr ""
+
+#: post-type/teacher.php:28
+msgid "Parent Teacher:"
+msgstr ""
+
+#: post-type/teacher.php:29
+msgid "All Teacher"
+msgstr ""
+
+#: post-type/teacher.php:30
+msgid "View Teacher"
+msgstr ""
+
+#: post-type/teacher.php:31
+msgid "Add New Teacher"
+msgstr ""
+
+#: post-type/teacher.php:32
+msgid "New Teacher"
+msgstr ""
+
+#: post-type/teacher.php:33
+msgid "Edit Teacher"
+msgstr ""
+
+#: post-type/teacher.php:34
+msgid "Update Teacher"
+msgstr ""
+
+#: post-type/teacher.php:35
+msgid "Search Teacher"
+msgstr ""
+
+#: post-type/teacher.php:74
+#, php-format
+msgid "Teacher updated. <a href=\"%s\">View Teacher</a>"
+msgstr ""
+
+#: post-type/teacher.php:77
+msgid "Teacher updated."
+msgstr ""
+
+#: post-type/teacher.php:78
+#, php-format
+msgid "Teacher restored to revision from %s"
+msgstr ""
+
+#: post-type/teacher.php:79
+#, php-format
+msgid "Teacher published. <a href=\"%s\">View Teacher</a>"
+msgstr ""
+
+#: post-type/teacher.php:80
+msgid "Teacher saved."
+msgstr ""
+
+#: post-type/teacher.php:81
+#, php-format
+msgid "Teacher submitted. <a target=\"_blank\" href=\"%s\">Preview Teacher</a>"
+msgstr ""
+
+#: post-type/teacher.php:82
+#, php-format
+msgid ""
+"Teacher scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Teacher</a>"
+msgstr ""
+
+#: post-type/teacher.php:83
+#, php-format
+msgid ""
+"Teacher draft updated. <a target=\"_blank\" href=\"%s\">Preview Teacher</a>"
+msgstr ""
+
+#: post-type/teacher.php:102
+msgctxt "taxonomy general name"
+msgid "Teacher Categories"
+msgstr ""
+
+#: post-type/teacher.php:103
+msgctxt "taxonomy singular name"
+msgid "Teacher Category"
+msgstr ""
+
+#: post-type/teacher.php:104
+msgid "Search Teacher Category"
+msgstr ""
+
+#: post-type/teacher.php:105
+msgid "All Teacher Category"
+msgstr ""
+
+#: post-type/teacher.php:106
+msgid "Teacher Parent Category"
+msgstr ""
+
+#: post-type/teacher.php:107
+msgid "Teacher Parent Category:"
+msgstr ""
+
+#: post-type/teacher.php:108
+msgid "Edit Teacher Category"
+msgstr ""
+
+#: post-type/teacher.php:109
+msgid "Update Teacher Category"
+msgstr ""
+
+#: post-type/teacher.php:110
+msgid "Add New Teacher Category"
+msgstr ""
+
+#: post-type/teacher.php:111
+msgid "New Teacher Category Name"
+msgstr ""
+
+#: post-type/teacher.php:112
+msgid "Teacher Category"
+msgstr ""
+
+#: shortcodes/course-category.php:82 shortcodes/course-listing.php:132
+#: shortcodes/event-listing.php:169 shortcodes/event.php:170
+#: shortcodes/feature-course.php:71 shortcodes/free-courses.php:120
+#: shortcodes/home-search.php:53 shortcodes/latest-course.php:121
+#: shortcodes/popular-course.php:143 shortcodes/speaker-listing.php:111
+#: shortcodes/student-listing.php:149 shortcodes/teacher-listing.php:138
+#: shortcodes/tiny-slider.php:61
+msgid "Themeum"
+msgstr ""
+
+#: shortcodes/course-category.php:87 shortcodes/feature-course.php:76
+#: shortcodes/free-courses.php:125 shortcodes/latest-course.php:135
+#: shortcodes/popular-course.php:148
+msgid "Count"
+msgstr ""
+
+#: shortcodes/course-category.php:89 shortcodes/feature-course.php:78
+#: shortcodes/free-courses.php:127 shortcodes/latest-course.php:137
+msgid "Enter the number of performers you want to display."
+msgstr ""
+
+#: shortcodes/course-category.php:95 shortcodes/feature-course.php:84
+#: shortcodes/free-courses.php:140 shortcodes/latest-course.php:144
+msgid "Extra CSS Class"
+msgstr ""
+
+#: shortcodes/course-listing.php:53 shortcodes/course-listing.php:61
+#: shortcodes/free-courses.php:55 shortcodes/free-courses.php:63
+#: shortcodes/latest-course.php:54 shortcodes/latest-course.php:62
+#: shortcodes/popular-course.php:76 shortcodes/popular-course.php:84
+#: templates/teacher-template.php:117 templates/teacher-template.php:126
+msgid "Details"
+msgstr ""
+
+#: shortcodes/course-listing.php:70 shortcodes/free-courses.php:71
+#: shortcodes/latest-course.php:70 shortcodes/popular-course.php:92
+#: templates/teacher-template.php:136
+msgid "by"
+msgstr ""
+
+#: shortcodes/course-listing.php:87 shortcodes/free-courses.php:88
+#: shortcodes/latest-course.php:87 shortcodes/popular-course.php:110
+#: templates/teacher-template.php:155
+msgid "Free"
+msgstr ""
+
+#: shortcodes/course-listing.php:127 shortcodes/course-listing.php:131
+msgid "Course Listing"
+msgstr ""
+
+#: shortcodes/course-listing.php:137
+msgid "Course Page Title"
+msgstr ""
+
+#: shortcodes/course-listing.php:151 shortcodes/event-listing.php:189
+#: shortcodes/speaker-listing.php:123 shortcodes/teacher-listing.php:150
+msgid "Course Count Number"
+msgstr ""
+
+#: shortcodes/course-listing.php:158 shortcodes/speaker-listing.php:130
+#: shortcodes/student-listing.php:168 shortcodes/teacher-listing.php:157
+msgid "Button Font Wight"
+msgstr ""
+
+#: shortcodes/course-listing.php:165 shortcodes/event-listing.php:196
+#: shortcodes/event.php:204 shortcodes/popular-course.php:177
+#: shortcodes/speaker-listing.php:137 shortcodes/student-listing.php:175
+#: shortcodes/teacher-listing.php:164
+msgid "Custom Class"
+msgstr ""
+
+#: shortcodes/event-listing.php:88 templates/event-template.php:189
+msgid "Speakers : "
+msgstr ""
+
+#: shortcodes/event-listing.php:102
+msgid "Date :"
+msgstr ""
+
+#: shortcodes/event-listing.php:103
+msgid "Time :"
+msgstr ""
+
+#: shortcodes/event-listing.php:107
+msgid "Location :"
+msgstr ""
+
+#: shortcodes/event-listing.php:164 shortcodes/event-listing.php:168
+msgid "Event Listing"
+msgstr ""
+
+#: shortcodes/event-listing.php:174
+msgid "Event Page Title"
+msgstr ""
+
+#: shortcodes/event.php:42
+msgid "Featured"
+msgstr ""
+
+#: shortcodes/event.php:98
+msgid "Load More"
+msgstr ""
+
+#: shortcodes/event.php:165 shortcodes/event.php:169 shortcodes/event.php:182
+msgid "Event Layout"
+msgstr ""
+
+#: shortcodes/event.php:175
+msgid "Themeum Event"
+msgstr ""
+
+#: shortcodes/event.php:189
+msgid "Add More Link for (Box Layout) "
+msgstr ""
+
+#: shortcodes/event.php:196
+msgid "Add Event Item Number ex: 4"
+msgstr ""
+
+#: shortcodes/feature-course.php:66
+msgid "Feature Course"
+msgstr ""
+
+#: shortcodes/free-courses.php:133 shortcodes/popular-course.php:156
+msgid "Number Of Column:"
+msgstr ""
+
+#: shortcodes/home-search.php:26
+msgid "Find Course, Tutorials"
+msgstr ""
+
+#: shortcodes/home-search.php:48 shortcodes/home-search.php:52
+msgid "Custom Search"
+msgstr ""
+
+#: shortcodes/home-search.php:58
+msgid "Search From"
+msgstr ""
+
+#: shortcodes/home-search.php:68
+msgid "Search Page Title"
+msgstr ""
+
+#: shortcodes/home-search.php:69
+msgid "search_title"
+msgstr ""
+
+#: shortcodes/home-search.php:75
+msgid "Search Page details"
+msgstr ""
+
+#: shortcodes/home-search.php:76
+msgid "search_content"
+msgstr ""
+
+#: shortcodes/latest-course.php:116 shortcodes/latest-course.php:128
+msgid "Latest Course"
+msgstr ""
+
+#: shortcodes/latest-course.php:126
+msgid "Title"
+msgstr ""
+
+#: shortcodes/latest-course.php:147
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: shortcodes/popular-course.php:138
+msgid "Popular Course"
+msgstr ""
+
+#: shortcodes/popular-course.php:142
+msgid "Popular Course Listing"
+msgstr ""
+
+#: shortcodes/popular-course.php:150
+msgid "Enter the number of post you want to display."
+msgstr ""
+
+#: shortcodes/popular-course.php:163
+msgid "Browse All Button"
+msgstr ""
+
+#: shortcodes/popular-course.php:170
+msgid "Browse All Page Link:"
+msgstr ""
+
+#: shortcodes/speaker-listing.php:106 shortcodes/speaker-listing.php:110
+msgid "Speaker Listing"
+msgstr ""
+
+#: shortcodes/speaker-listing.php:116
+msgid "Speaker Page Title"
+msgstr ""
+
+#: shortcodes/student-listing.php:144 shortcodes/student-listing.php:148
+msgid "Student Listing"
+msgstr ""
+
+#: shortcodes/student-listing.php:154
+msgid "Student Page Title"
+msgstr ""
+
+#: shortcodes/student-listing.php:161
+msgid "Number of Post"
+msgstr ""
+
+#: shortcodes/teacher-listing.php:133 shortcodes/teacher-listing.php:137
+msgid "Teacher Listing"
+msgstr ""
+
+#: shortcodes/teacher-listing.php:143
+msgid "Teacher Page Title"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:56
+msgid "Tiny Slider"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:60
+msgid "Themeum Custom Search"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:68
+msgid "Number of Slider"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:76
+msgid "Alingment"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:87
+msgid "Title Font Size (eg: 10px)"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:94
+msgid "Title Font Weight"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:101
+msgid "Title Color"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:108
+msgid "Title Margin: (eg: 5px 5px 5px 5px)"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:116
+msgid "Sub Title Font Size (eg: 16px)"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:123
+msgid "Sub Title Font Weight"
+msgstr ""
+
+#: shortcodes/tiny-slider.php:130
+msgid "Sub Title Color"
+msgstr ""
+
+#: templates/course-template.php:79
+msgid "Ratings"
+msgstr ""
+
+#: templates/course-template.php:84
+msgid "Viewers"
+msgstr ""
+
+#: templates/course-template.php:85
+msgid "Tag"
+msgstr ""
+
+#: templates/course-template.php:107
+msgid "Watch Trailer"
+msgstr ""
+
+#: templates/course-template.php:135
+msgid "Buy Now"
+msgstr ""
+
+#: templates/course-template.php:153
+msgid "Course Durations: "
+msgstr ""
+
+#: templates/course-template.php:192
+msgid "Duration : "
+msgstr ""
+
+#: templates/course-template.php:220
+msgid "Meet Our Course Teacher"
+msgstr ""
+
+#: templates/course-template.php:250
+msgid "Course Reviews"
+msgstr ""
+
+#: templates/course-template.php:324
+msgid "Post Your Reviews"
+msgstr ""
+
+#: templates/event-template.php:51 templates/event-template.php:206
+msgid "Date : "
+msgstr ""
+
+#: templates/event-template.php:52 templates/event-template.php:207
+msgid "Time : "
+msgstr ""
+
+#: templates/event-template.php:56 templates/event-template.php:211
+msgid "Location : "
+msgstr ""
+
+#: templates/event-template.php:60 templates/event-template.php:215
+msgid "Price : "
+msgstr ""
+
+#: templates/event-template.php:65
+msgid "Speaker : "
+msgstr ""
+
+#: templates/event-template.php:96
+msgid "Event Location"
+msgstr ""
+
+#: templates/event-template.php:119
+msgid "Related Events"
+msgstr ""
+
+#: templates/lesson-template.php:81
+msgid "Download Attachment "
+msgstr ""
+
+#: templates/lesson-template.php:140
+msgid "You don't have access to see this video."
+msgstr ""
+
+#: templates/student-template.php:161
+msgid "Course Taken"
+msgstr ""
+
+#: templates/student-template.php:257
+msgid "Certificate List"
+msgstr ""
+
+#: templates/teacher-template.php:99
+msgid "Related Course"
+msgstr ""

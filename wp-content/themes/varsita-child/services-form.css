@@ -1,0 +1,9 @@
+#saveForm {
+  background: #373c66 none repeat scroll 0 0;
+  border: medium none;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+.seconds{display:none !important;}
+.wufoo .info h2{text-align:center !important;}

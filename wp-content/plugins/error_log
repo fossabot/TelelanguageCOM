@@ -1,0 +1,29 @@
+[09-May-2017 13:48:02 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/telelang/public_html/wp-content/plugins/hello.php on line 60
+[26-May-2017 00:00:16 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/telelang/public_html/wp-content/plugins/hello.php on line 60
+[23-Sep-2017 21:16:58 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/telelang/public_html/wp-content/plugins/hello.php on line 60
+[07-Nov-2017 15:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/telelang/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/telelang/public_html/wp-content/plugins/hello.php on line 60
+[16-Nov-2017 16:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/telelang/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/telelang/public_html/wp-content/plugins/hello.php on line 60
+[17-Nov-2017 08:20:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/telelang/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/telelang/public_html/wp-content/plugins/hello.php on line 60
+[19-Nov-2017 13:34:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/telelang/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/telelang/public_html/wp-content/plugins/hello.php on line 60
+[25-Nov-2017 03:30:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/telelang/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/telelang/public_html/wp-content/plugins/hello.php on line 60
+[11-Jan-2018 18:40:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/telelanguage/public_html/wp-content/plugins/hello.php on line 60
+[11-Jan-2018 18:40:04 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/telelanguage/public_html/wp-content/plugins/hello.php on line 60
+[27-Jan-2018 02:33:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/telelanguage/public_html/wp-content/plugins/hello.php on line 60
+[31-Jan-2018 16:36:17 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/telelanguage/public_html/wp-content/plugins/hello.php on line 60
+[12-Feb-2018 16:24:03 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/telelanguage/public_html/wp-content/plugins/hello.php on line 60
+[06-Mar-2018 18:03:24 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/telelanguage/public_html/wp-content/plugins/hello.php on line 60

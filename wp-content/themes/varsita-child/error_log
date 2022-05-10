@@ -1,0 +1,4 @@
+[15-Mar-2018 11:46:42 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/telelanguage/public_html/wp-content/themes/varsita-child/header.php on line 3
+[19-Mar-2018 18:28:49 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/telelanguage/public_html/wp-content/themes/varsita-child/header.php on line 3
+[28-Mar-2018 01:39:05 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/telelanguage/public_html/wp-content/themes/varsita-child/header.php on line 3
+[29-Mar-2018 01:54:27 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/telelanguage/public_html/wp-content/themes/varsita-child/header.php on line 3

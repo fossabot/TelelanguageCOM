@@ -1,0 +1,66 @@
+.embed form {
+  margin: auto !important;
+}
+
+form.wufoo {
+  width: 93%;
+}
+
+.wufoo .info div{display:none;}
+.wufoo .info, .wufoo .paging-context{border-bottom:none !important;}
+.noI form li, .altInstruct form li {
+  display: inline-block;
+  margin-right: 20px;
+  max-width: 175px;
+  width: 100% !important;
+}
+
+#header{float:left;}
+
+.noI form li.buttons, .altInstruct form li.buttons {
+  margin-right: 0;
+  max-width: 130px;
+  width: 100%;
+}
+
+.wufoo .info h2 {
+  color: hsl(0, 0%, 100%);
+  display: ruby-text;
+  font-size: 25px;
+  font-weight: bold;
+  position: relative;
+  text-transform: uppercase;
+  top: 33px;
+  width: auto;
+}
+
+form span.req{display:none !important;}
+
+form ul {
+  position: relative;
+  top: 21px;
+}
+
+input.large {
+  height: 13px;
+  padding: 10px;
+  width: 100%;
+}
+
+
+#saveForm {
+  background: hsl(0, 67%, 39%) none repeat scroll 0 0;
+  border: medium none;
+  color: hsl(0, 0%, 100%);
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 3px 16px;
+  position: relative;
+  text-transform: uppercase;
+  top: 0px;
+}
+
+#errorLi{max-width: 100% !important;}
+form li.error{display: inline-block !important;background-color: transparent !important;}
+
